@@ -6,7 +6,7 @@ import unittest
 
 '''Test Votes - first test suite, that tests all possible methods
 of casting votes by user in Polls web application.
-This suite contains 7 test cases.
+This test suite contains 7 test cases.
 
 Tested URL:     https://polls-application.herokuapp.com/polls/'''
 
