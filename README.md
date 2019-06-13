@@ -9,13 +9,12 @@ This project contains Selenium automated tests of my 'Polls' application. There 
 - deleting polls questions,
 - admin site filters, users lists etc.
 
-
 ## Installation
 
 - Clone this repository to your computer using link:
 
 ```
-    
+    https://github.com/Sonny-skyez/Selenium_test_-_Polls_app.git
 ```
 
 - Use package manager [pip](https://pypi.org/project/pip/) to install required Python packages:
@@ -37,6 +36,14 @@ To run one of the test suites you have to run one of the test suite files with c
 There are 20 test cases in 4 test suites.
 
 ## Test stats
+
+Here are some stats - first - all test suites, duration times, passed and failed tests, etc.
+
+![alt text](https://github.com/Sonny-skyez/Selenium_test_-_Polls_app/blob/master/Stats/Stat_3.png)
+
+![alt text](https://github.com/Sonny-skyez/Selenium_test_-_Polls_app/blob/master/Stats/Stat_1.png?raw=true)
+
+![alt text](https://github.com/Sonny-skyez/Selenium_test_-_Polls_app/blob/master/Stats/Stat_2.png?raw=true)
 
 ## Built With
 
