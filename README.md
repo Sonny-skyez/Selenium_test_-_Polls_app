@@ -3,7 +3,7 @@
 This project contains Selenium automated tests of my 'Polls' application. There are 20 test cases in 4 main test suites, testing all apps functionalities, such as:
 
 - voting,
-- logging in to admin panelm
+- logging in to admin panel,
 - adding polls questions,
 - editing polls questions,
 - deleting polls questions,
